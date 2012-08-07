@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Omni Image Search",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "",
+    "description": "Extension description"
+  }
+}
