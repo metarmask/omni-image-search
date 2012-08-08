@@ -1,6 +1,6 @@
 {
   "name": "__MSG_extName__",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "__MSG_extDesc__",
   "permissions": [
   ],
@@ -15,6 +15,9 @@
   },
   "default_locale": "en",
   "icons": {
+    "16": "ui/logo_16.png",
+    "48": "ui/logo_48.png",
+    "128": "ui/logo_128.png"
   },
   "manifest_version": 2
 }

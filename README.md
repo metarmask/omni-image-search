@@ -1,7 +1,7 @@
 Omni Image Search
 ====
 
-A Chrome extension to make image search super easy and fast.
+A dead simple Chrome extension to make image search equally simply.
 
 - - - - -
 
