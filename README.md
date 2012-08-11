@@ -20,3 +20,5 @@ How to use
 1. Type "img" into your omnibox (address bar).
 2. Hit \<tab\>.
 3. Type your keywords and hit enter.
+
+Tip: use Ctrl + L / Command + L to quickly give omnibox focus.
