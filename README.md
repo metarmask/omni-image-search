@@ -17,8 +17,8 @@ Since images.google.com is not in the Chrome search engine list by default, I de
 How to use
 ----
 
-1. Type "img" into your omnibox (address bar).
-2. Hit \<tab\>.
-3. Type your keywords and hit enter.
+1. Type "img" and a space into the omnibox (address bar)
+2. Enter a search query
+3. Hit enter
 
-Tip: use Ctrl + L / Command + L to quickly give omnibox focus.
+Tip: use Ctrl + L, ⌘ + L or Alt+D to quickly give the omnibox focus.
